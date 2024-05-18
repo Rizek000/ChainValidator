@@ -25,3 +25,6 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/chainvalidator.git
 cd chainvalidator
+
+## Running the Application
+
