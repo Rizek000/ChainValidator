@@ -25,6 +25,16 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/chainvalidator.git
 cd chainvalidator
-
+```
 ## Running the Application
+
+```bash
+cargo run
+```
+
+## File Structure
+
+- main.rs: The main file containing the application logic.
+- hash.txt: The file used to store the blockchain data.
+
 
